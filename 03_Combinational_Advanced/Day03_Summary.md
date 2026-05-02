@@ -23,3 +23,7 @@
 * **Question:** In a 4:2 Priority Encoder, if $D_3 D_2 D_1 D_0 = 0000$, what are the values of $Y_1 Y_0$ and $V$?
 * **Answer:** $Y_1 Y_0 = XX$ (Don't Care) and **$V = 0$** (Invalid). 
 * **Reasoning:** The $V$ bit is necessary to distinguish this "no input" state from the "Input 0" state ($0001 \rightarrow Y=00, V=1$).
+
+
+## Takeaway:
+Understanding these functional blocks is essential for RTL design and ensuring timing closure. Specifically, mastering the propagation delay in Ripple Carry Adders and the priority logic in Encoders is critical for designing high-speed, predictable VLSI circuits.
