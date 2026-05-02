@@ -14,4 +14,8 @@
 * Mastered the "Block Observation" method for MUX inputs.
 * XOR Implementation: S=A, I0=B, I1=B'.
 
+## Takeaway:
+Mastering K-Map reduction and Boolean laws is the first step toward area-efficient VLSI design. Minimizing gate count directly reduces the physical "footprint" and power consumption on a silicon chip.
+
+
 
