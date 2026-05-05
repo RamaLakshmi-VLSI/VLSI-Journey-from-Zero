@@ -8,4 +8,4 @@
 * **Counters:** Compared Synchronous vs. Asynchronous (Ripple) counters, focusing on the propagation delay trade-offs essential for high-speed design.
 
 ## Takeaway:
-Sequential logic is the backbone of architectural control. Mastery of Setup and Hold times in Flip-Flops is critical for ensuring timing closure, while understanding the "ripple" effect in counters is the first step toward managing clock skew in a professional VLSI environment.
+Sequential logic is the backbone of architectural control, mastery of Setup and Hold times in Flip-Flops is critical for ensuring timing closure, while understanding the "ripple" effect in counters is the first step toward managing clock skew in a professional VLSI environment.
