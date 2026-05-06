@@ -9,3 +9,7 @@
 
 ## Takeaway:
 Setup violations can be fixed by slowing down the clock ($F_{max}$), but Hold violations are independent of clock speed and must be fixed by adding physical delay (buffers) to the data path.
+
+
+## Professional Growth Note: 
+Mastery in VLSI isn't about memorizing formulas; it's about understanding the physical constraints of silicon. Continuous revision of FSM transitions and Timing Slack is essential to maintaining "Tape-out ready" design skills.
