@@ -14,4 +14,5 @@
 In VLSI, an FSM is not just a drawing; it is a balance of **Power, Performance, and Area (PPA)**. 
 - Using **Binary Encoding** for the Vending Machine saved **Area** (fewer Flip-Flops). 
 - Using **One-Hot Encoding** for the Traffic Light increased **Performance** (simple logic, higher speed) and simplified the output hardware.
+
 A good designer doesn't just make the circuit work; they choose the architecture that fits the specific constraints of the system.
